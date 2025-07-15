@@ -2,6 +2,7 @@
  * @lc app=leetcode id=66 lang=javascript
  *
  * [66] Plus One
+ * Tags: array
  */
 
 // @lc code=start
