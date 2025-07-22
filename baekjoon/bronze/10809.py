@@ -35,9 +35,7 @@
 ## 시간 복잡도: O(n), 공간 복잡도: O(n)
 
 ## 제출 결과
-
-## 점검
-
+32412 KB,	44 ms
 '''
 
 s = input()
@@ -47,7 +45,7 @@ for i in range(len(s)):
   char = s[i]
   if a_to_z[char] == -1:
     a_to_z[char] = i
-  
+
 print(' '.join(str(value) for value in a_to_z.values()))
 
 
