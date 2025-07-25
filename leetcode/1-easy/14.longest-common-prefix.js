@@ -48,9 +48,6 @@
  * Your runtime beats 100 % of javascript submissions
  * Your memory usage beats 35.42 % of javascript submissions (55.5 MB)
  *
- * ## 점검
- *
- *
  * @param {string[]} strs
  * @return {string}
  */
