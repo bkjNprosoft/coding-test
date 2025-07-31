@@ -74,7 +74,10 @@
  * @return {number}
  */
 const strStr = (haystack, needle) => {
+  // 가장 쉽게 푸는 방법
   // return haystack.indexOf(needle);
+
+  // 투 포인터 방식으로 푸는 방법
   if (haystack.length < needle.length) return -1;
 
   let pointer = 1;
