@@ -102,6 +102,8 @@ console.log(findPoisonedDuration([1, 2, 3, 4, 5], 5));
  * 2. 이전 공격의 독 종료 시간과 겹치는 경우에는 겹치는 시간만 제외하고 더합니다.
  * 3. 마지막 공격의 독 지속 시간도 합산합니다.
  *
+ * ## 시간 복잡도: O(n), 공간 복잡도: O(1)
+ *
  * ## 제출 결과
  * 40/40 cases passed (1 ms)
  * Your runtime beats 88.8 % of javascript submissions
