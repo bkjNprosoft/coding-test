@@ -2,6 +2,7 @@
  * @lc app=leetcode id=495 lang=javascript
  *
  * [495] Teemo Attacking
+ * Tags: array
  */
 
 // @lc code=start

@@ -2,7 +2,7 @@
  * @lc app=leetcode id=485 lang=javascript
  *
  * [485] Max Consecutive Ones
- * Tag: array
+ * Tags: array
  */
 
 // @lc code=start
