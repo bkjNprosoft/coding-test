@@ -33,3 +33,4 @@ LeetCode 코딩 테스트 문제 풀이를 기록합니다.
 | [485.max-consecutive-ones.js](1-easy/array/485.max-consecutive-ones.js) | easy | ![array](https://img.shields.io/badge/array-blue?style=flat) |
 | [495.teemo-attacking.js](1-easy/array/495.teemo-attacking.js) | easy | ![array](https://img.shields.io/badge/array-blue?style=flat) |
 | [561.array-partition.js](1-easy/array/561.array-partition.js) | easy | ![array](https://img.shields.io/badge/array-blue?style=flat) |
+| [566.reshape-the-matrix.js](1-easy/array/566.reshape-the-matrix.js) | easy | ![array](https://img.shields.io/badge/array-blue?style=flat) |
